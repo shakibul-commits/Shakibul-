@@ -8,12 +8,12 @@
   "notiGroup": true,
   "NOTIFICATION": true,
   "EMAIL": "your_email",
-  "PASSWORD": "your_password",
+  "PASSWORD": "875439p",
   "OTPKEY": "",
   "BOTNAME": "─꯭─⃝‌‌সাকিবুল এর ফোকাস বট",
   "PREFIX": "/",
 
-  "reactUnsend": ["😡", "🤧", "😤", "😠"],
+  "reactUnsend": ["😡", "🤧", "😤",],
 
   "ADMINBOT": [
     "61580594115259",
